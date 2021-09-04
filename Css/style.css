@@ -251,7 +251,7 @@ a {
 }
 @media (max-width: 767px) {
     .landing .container .text h1 {
-        font-size: 30px;
+        font-size: 25px;
     }
     .landing .container .text form input:first-child {
         width: 180px;

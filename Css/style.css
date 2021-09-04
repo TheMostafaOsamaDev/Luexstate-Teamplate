@@ -312,6 +312,7 @@ a {
     .landing .container .hero-image {
         margin-left: 60px;
         justify-content: flex-start;
+        max-width: 90%;
     }
     .landing .container .hero-image img {
         width: 800px;
